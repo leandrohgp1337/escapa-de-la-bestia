@@ -8,4 +8,6 @@ tutorial:
 
 2- set all positions for runners and bestia
 
-3- set npc : /edlbnpc
+3- create a sign in your lobby, touch the sign for finish the tutorial
+
+4- {if you wants}  set npc: /edlbnpc
